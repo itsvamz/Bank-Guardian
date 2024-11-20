@@ -1,6 +1,6 @@
-# Bank-Safe
+# Bank-Guardian
 
-Bank Safe is a banking transaction deadlock prevention system designed to detect and prevent deadlocks in transaction sequences. It can identify potential deadlocks in a given list of transactions and propose a safe transaction order when possible. This project aims to improve transaction safety and maintain consistency in concurrent banking operations.
+Bank Guardian is a banking transaction deadlock prevention system designed to detect and prevent deadlocks in transaction sequences. It can identify potential deadlocks in a given list of transactions and propose a safe transaction order when possible. This project aims to improve transaction safety and maintain consistency in concurrent banking operations.
 
 ## Features
 
